@@ -1,6 +1,7 @@
 import os
 import sys
 
+
 PHOTOS_FOLDER_LOCATION = ''
 HTML_TEMPLATE_FILE = 'template.html'
 HTML_OUTPUT = 'output.html'
