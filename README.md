@@ -31,3 +31,11 @@ photos.py
 Example execution under Windows S.O enviroment:
 
 python.exe photos.py
+
+----------------------------------------------
+SCREENSHOTS:
+----------------------------------------------
+
+<img src=screenshots/1.png>
+
+<img src=/screenshots/2.png>
