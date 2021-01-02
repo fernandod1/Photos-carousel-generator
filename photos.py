@@ -1,10 +1,14 @@
+# Copyright (c) 2020 Fernando
+# Url: https://github.com/fernandod1/
+# License: MIT
 import os
 import sys
-
 
 PHOTOS_FOLDER_LOCATION = ''
 HTML_TEMPLATE_FILE = 'template.html'
 HTML_OUTPUT = 'output.html'
+
+# ------------------- Do not modify under this line ------------------- #
 
 def validimgextensions(filename):
     accepted = False
